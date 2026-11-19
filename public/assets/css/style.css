@@ -1,0 +1,7 @@
+/* Styles propres à l'application (surcharges légères de Bootstrap) */
+.table th {
+    font-weight: 600;
+}
+.card-header h5 {
+    font-weight: 500;
+}
