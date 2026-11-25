@@ -179,7 +179,7 @@ require 'layouts/header.php';
     <div class="card-header bg-dark text-white d-flex justify-content-between align-items-center">
         <h5 class="mb-0">Catalogue des Produits</h5>
         <form action="produit_form.php" method="get" class="m-0">
-            <button type="submit" class="btn btn-primary btn-sm">Ajouter Produit</button>
+            <button type="submit" class="btn btn-primary btn-sm">Ajouter un Produit</button>
         </form>
     </div>
 
